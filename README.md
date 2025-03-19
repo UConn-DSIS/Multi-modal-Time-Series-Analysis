@@ -1,5 +1,5 @@
 # Multi-modal-Time-Series-Analysis
-This is the official repository for "Multi-modal Time Series Analysis: A Tutorial and Survey".[Paper](https://arxiv.org/abs/2503.13709)
+This is the official repository for "Multi-modal Time Series Analysis: A Tutorial and Survey". [[Paper]](https://arxiv.org/abs/2503.13709)
 
 This repository is maintained by [*Yushan Jiang*](https://sites.google.com/view/jayjiang/home) and [*Kanghui Ning*](https://kanghui-learning.github.io/) from ***UConn DSIS***.
 
