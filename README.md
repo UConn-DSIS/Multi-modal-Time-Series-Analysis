@@ -14,7 +14,7 @@ This survey aims to provide a unique and systematic perspective on ***effectivel
 - Analyzing cross-modal interactions between time series and other modalities (*Fusion*, *Alignment*, *Transference*) 
 - Demonstrating revealing the impact of multi-modal time series analysis in applications across diverse domains.
 
-|[<img src="Survey-Intro.png" width="450"/>](image.png) |[<img src="Survey-Example.png" width="540"/>](image1.png)|
+|[<img src="Survey-Introduction.png" width="450"/>](image.png) |[<img src="Survey-Example.png" width="540"/>](image1.png)|
 |:--:|:--:| 
 | *Figure 1: The Framework of Our Survey* | *Figure 2: Categorization of cross-modal interaction methods and representative examples* |
 
