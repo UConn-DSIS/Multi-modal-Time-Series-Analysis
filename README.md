@@ -668,9 +668,13 @@ We define three fundamental types of interactions between time series and other 
 
 ## Citation
 ```
-@misc{jiang2025multimodal,
+@misc{jiang2025multimodaltimeseriesanalysis,
       title={Multi-modal Time Series Analysis: A Tutorial and Survey}, 
       author={Yushan Jiang and Kanghui Ning and Zijie Pan and Xuyang Shen and Jingchao Ni and Wenchao Yu and Anderson Schneider and Haifeng Chen and Yuriy Nevmyvaka and Dongjin Song},
-      year={2025}
+      year={2025},
+      eprint={2503.13709},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2503.13709}, 
 }
 ```
