@@ -18,6 +18,64 @@ This survey aims to provide a unique and systematic perspective on ***effectivel
 |:--:|:--:| 
 | *Figure 1: The Framework of Our Survey* | *Figure 2: Categorization of cross-modal interaction methods and representative examples* |
 
+## Representative Open-Source Multi-Modal Time Series Datasets
+
+<table>
+<tr>
+<th>Domain</th>
+<th>Dataset</th>
+<th>Modalities</th>
+</tr>
+<tr>
+<td rowspan="3">Healthcare</td>
+<td>MIMIC-III<sup><a href="https://mimic.mit.edu/docs/iii/">[1]</a></sup>, MIMIC-IV<sup><a href="https://physionet.org/content/mimiciv/1.0/">[2]</a></sup></td>
+<td>TS, Text, Tabular</td>
+</tr>
+<tr>
+<td>ICBHI<sup><a href="https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge">[3]</a></sup>, Coswara<sup><a href="https://zenodo.org/records/7188627">[4]</a></sup>, KAUH<sup><a href="https://data.mendeley.com/datasets/jwyy9np4gv/3">[5]</a></sup>, PTB-XL<sup><a href="https://physionet.org/content/ptb-xl/1.0.3/">[6]</a></sup>, ZuCo<sup><a href="https://github.com/norahollenstein/zuco-benchmark">[7]</a></sup></td>
+<td>TS, Text</td>
+</tr>
+<tr>
+<td>Image-EEG<sup><a href="https://github.com/gifale95/eeg_encoding">[8]</a></sup></td>
+<td>TS, Image</td>
+</tr>
+<tr>
+<td>Finance</td>
+<td>FNSPID<sup><a href="https://github.com/Zdong104/FNSPID_Financial_News_Dataset">[9]</a></sup>, ACL18<sup><a href="https://github.com/yumoxu/stocknet-dataset">[10]</a></sup>, CIKM18<sup><a href="https://github.com/wuhuizhe/CHRNN">[11]</a></sup>, DOW30<sup><a href="https://github.com/ZihanChen1995/ChatGPT-GNN-StockPredict">[12]</a></sup></td>
+<td>TS, Text</td>
+</tr>
+<tr>
+<td>Multi-domain</td>
+<td>Time-MMD<sup><a href="https://github.com/AdityaLab/Time-MMD">[13]</a></sup>, TimeCAP<sup><a href="https://github.com/geon0325/TimeCAP">[14]</a></sup>, NewsForecast<sup><a href="https://github.com/ameliawong1996/From_News_to_Forecast">[15]</a></sup>, TTC<sup><a href="https://github.com/Rose-STL-Lab/Multimodal_Forecasting">[16]</a></sup>, CiK<sup><a href="https://servicenow.github.io/context-is-key-forecasting/v0/">[17]</a></sup>, TSQA<sup><a href="https://huggingface.co/Time-QA">[18]</a></sup></td>
+<td>TS, Text</td>
+</tr>
+<tr>
+<td>Retail</td>
+<td>VISUELLE<sup><a href="https://github.com/HumaticsLAB/GTM-Transformer">[19]</a></sup></td>
+<td>TS, Image, Text</td>
+</tr>
+<tr>
+<td>IoT</td>
+<td>LEMMA-RCA<sup><a href="https://lemma-rca.github.io/">[20]</a></sup></td>
+<td>TS, Text</td>
+</tr>
+<tr>
+<td>Speech</td>
+<td>LRS3<sup><a href="https://www.robots.ox.ac.uk/~vgg/data/lip_reading/">[21]</a></sup>, VoxCeleb2<sup><a href="https://www.robots.ox.ac.uk/~vgg/data/voxceleb/">[22]</a></sup></td>
+<td>TS (Audio), Image</td>
+</tr>
+<tr>
+<td>Traffic</td>
+<td>NYC-taxi, NYC-bike<sup><a href="https://huggingface.co/datasets/bjdwh/ST_data_urbangpt">[23]</a></sup></td>
+<td>ST, Text</td>
+</tr>
+<tr>
+<td>Environment</td>
+<td>Terra<sup><a href="https://github.com/CityMind-Lab/NeurIPS24-Terra">[24]</a></sup></td>
+<td>ST, Text</td>
+</tr>
+</table>
+
 ## Taxonomy of Representative Multi-Modal Time Series Methods
 
 We define three fundamental types of interactions between time series and other modalities, including ***Fusion***, ***Alignment***, and ***Transference***, which occur at different stages within a framework --- ***Input***, ***Intermediate*** (*i.e.*, representations or intermediate outputs), and ***Output***.
@@ -667,8 +725,7 @@ We define three fundamental types of interactions between time series and other 
 </div>
 
 ## Citation
-```
-@misc{jiang2025multimodaltimeseriesanalysis,
+```@misc{jiang2025multimodaltimeseriesanalysis,
       title={Multi-modal Time Series Analysis: A Tutorial and Survey}, 
       author={Yushan Jiang and Kanghui Ning and Zijie Pan and Xuyang Shen and Jingchao Ni and Wenchao Yu and Anderson Schneider and Haifeng Chen and Yuriy Nevmyvaka and Dongjin Song},
       year={2025},
@@ -678,3 +735,4 @@ We define three fundamental types of interactions between time series and other 
       url={https://arxiv.org/abs/2503.13709}, 
 }
 ```
+
