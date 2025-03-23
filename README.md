@@ -29,7 +29,7 @@ This survey aims to provide a unique and systematic perspective on ***effectivel
 <tr>
 <td rowspan="3">Healthcare</td>
 <td>MIMIC-III<sup><a href="https://mimic.mit.edu/docs/iii/">[1]</a></sup>, MIMIC-IV<sup><a href="https://physionet.org/content/mimiciv/1.0/">[2]</a></sup></td>
-<td>TS, Text, Tabular</td>
+<td>TS, Text, Table</td>
 </tr>
 <tr>
 <td>ICBHI<sup><a href="https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge">[3]</a></sup>, Coswara<sup><a href="https://zenodo.org/records/7188627">[4]</a></sup>, KAUH<sup><a href="https://data.mendeley.com/datasets/jwyy9np4gv/3">[5]</a></sup>, PTB-XL<sup><a href="https://physionet.org/content/ptb-xl/1.0.3/">[6]</a></sup>, ZuCo<sup><a href="https://github.com/norahollenstein/zuco-benchmark">[7]</a></sup></td>
@@ -359,7 +359,7 @@ We define three fundamental types of interactions between time series and other 
 </tr>
 <tr>
 <td><strong><sub>ContextFormer</sub></strong> </br><a href="https://arxiv.org/abs/2410.12672"><sup><sub>(2024)</sub></sup></a></td>
-<td><sub>TS, Tabular</sub></td>
+<td><sub>TS, Table</sub></td>
 <td><sub>General</sub></td>
 <td><sub>Forecasting</sub></td>
 <td><sub>Intermediate</sub></td>
@@ -458,7 +458,7 @@ We define three fundamental types of interactions between time series and other 
 </tr>
 <tr>
 <td><strong><sub>MedTsLLM</sub></strong> </br><a href="https://arxiv.org/abs/2408.07773"><sup><sub>(2024)</sub></sup></a>&nbsp<a href="https://github.com/flixpar/med-ts-llm"><sup><sub>Code</sub></sup></a></td>
-<td><sub>TS, Text, Tabular</sub></td>
+<td><sub>TS, Text, Table</sub></td>
 <td><sub>Healthcare</sub></td>
 <td><sub>Multiple</sub></td>
 <td><sub>Intermediate</sub></td>
