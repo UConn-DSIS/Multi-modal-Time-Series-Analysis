@@ -469,13 +469,13 @@ We define three fundamental types of interactions between time series and other 
 <td><sub>Llama2</sub></td>
 </tr>
 <tr>
-<td><strong><sub>RespLLM</sub></strong> </br><a href="https://arxiv.org/abs/2410.05361"><sup><sub>(2024)</sub></sup></a></td>
+<td><strong><sub>RespLLM</sub></strong> </br><a href="https://arxiv.org/abs/2410.05361"><sup><sub>(2024)</sub></sup></a>&nbsp<a href="https://github.com/evelyn0414/RespLLM"><sup><sub>Code</sub></sup></a></td>
 <td><sub>TS (Audio), Text</sub></td>
 <td><sub>Healthcare</sub></td>
 <td><sub>Classification</sub></td>
 <td><sub>Intermediate</sub></td>
 <td><sub>✔</sub></td>
-<td><sub></sub></td>
+<td><sub>✔</sub></td>
 <td><sub>✘</sub></td>
 <td><sub>Addition, Self-attention</sub></td>
 <td><sub>OpenBioLLM-8B</sub></td>
