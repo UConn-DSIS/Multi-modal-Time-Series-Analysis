@@ -1,4 +1,13 @@
 # Multi-modal-Time-Series-Analysis
+
+<div align="center">
+
+**[<a href="https://mp.weixin.qq.com/s/snkGiRV_VfAYUtXyjUd1ig">时序人中文解读</a>]**
+**[<a href="https://mp.weixin.qq.com/s/DG_Rc3bExPnl8VzP1Q9RXQ">圆圆的算法笔记中文解读</a>]**
+**[<a href="https://mp.weixin.qq.com/s/r2NPl0yBHnlx-cvOFOHgPg">深度图学习与大模型LLM中文解读</a>]**
+
+</div>
+
 This is the official repository for "Multi-modal Time Series Analysis: A Tutorial and Survey". [[Paper]](https://arxiv.org/abs/2503.13709)
 
 This repository is maintained by [*Yushan Jiang*](https://sites.google.com/view/jayjiang/home) and [*Kanghui Ning*](https://kanghui-learning.github.io/) from ***UConn DSIS***.
