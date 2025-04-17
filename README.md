@@ -427,7 +427,7 @@ We define three fundamental types of interactions between time series and other 
 <td rowspan="2"><sub>TS, Text, Graph</sub></td>
 <td rowspan="2"><sub>Finance</sub></td>
 <td rowspan="2"><sub>Classification</sub></td>
-<td><sub>Intermediate</sub></td>
+<td><sub>Input</sub></td>
 <td><sub>✘</sub></td>
 <td><sub>✘</sub></td>
 <td><sub>✔</sub></td>
@@ -435,7 +435,7 @@ We define three fundamental types of interactions between time series and other 
 <td rowspan="2"><sub>ChatGPT</sub></td>
 </tr>
 <tr>
-<td></td>
+<td><sub>Intermediate</sub></td>
 <td><sub>✔</sub></td>
 <td><sub>✔</sub></td>
 <td><sub>✘</sub></td>
