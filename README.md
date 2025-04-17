@@ -50,12 +50,12 @@ This survey aims to provide a unique and systematic perspective on ***effectivel
 </tr>
 <tr>
 <td>Finance</td>
-<td>FNSPID<sup><a href="https://github.com/Zdong104/FNSPID_Financial_News_Dataset">[9]</a></sup>, ACL18<sup><a href="https://github.com/yumoxu/stocknet-dataset">[10]</a></sup>, CIKM18<sup><a href="https://github.com/wuhuizhe/CHRNN">[11]</a></sup>, DOW30<sup><a href="https://github.com/ZihanChen1995/ChatGPT-GNN-StockPredict">[12]</a></sup>, MTBench<sup><a href="https://github.com/Graph-and-Geometric-Learning/MTBench">[13]</a></sup></td>
+<td>FNSPID<sup><a href="https://github.com/Zdong104/FNSPID_Financial_News_Dataset">[9]</a></sup>, ACL18<sup><a href="https://github.com/yumoxu/stocknet-dataset">[10]</a></sup>, CIKM18<sup><a href="https://github.com/wuhuizhe/CHRNN">[11]</a></sup>, DOW30<sup><a href="https://github.com/ZihanChen1995/ChatGPT-GNN-StockPredict">[12]</a></sup></td>
 <td>TS, Text</td>
 </tr>
 <tr>
 <td>Multi-domain</td>
-<td>Time-MMD<sup><a href="https://github.com/AdityaLab/Time-MMD">[14]</a></sup>, TimeCAP<sup><a href="https://github.com/geon0325/TimeCAP">[15]</a></sup>, NewsForecast<sup><a href="https://github.com/ameliawong1996/From_News_to_Forecast">[16]</a></sup>, TTC<sup><a href="https://github.com/Rose-STL-Lab/Multimodal_Forecasting">[17]</a></sup>, CiK<sup><a href="https://servicenow.github.io/context-is-key-forecasting/v0/">[18]</a></sup>, TSQA<sup><a href="https://huggingface.co/Time-QA">[19]</a></sup></td>
+<td>MTBench<sup><a href="https://github.com/Graph-and-Geometric-Learning/MTBench">[13]</a></sup>, Time-MMD<sup><a href="https://github.com/AdityaLab/Time-MMD">[14]</a></sup>, TimeCAP<sup><a href="https://github.com/geon0325/TimeCAP">[15]</a></sup>, NewsForecast<sup><a href="https://github.com/ameliawong1996/From_News_to_Forecast">[16]</a></sup>, TTC<sup><a href="https://github.com/Rose-STL-Lab/Multimodal_Forecasting">[17]</a></sup>, CiK<sup><a href="https://servicenow.github.io/context-is-key-forecasting/v0/">[18]</a></sup>, TSQA<sup><a href="https://huggingface.co/Time-QA">[19]</a></sup></td>
 <td>TS, Text</td>
 </tr>
 <tr>
