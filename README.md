@@ -5,6 +5,7 @@
 **[<a href="https://mp.weixin.qq.com/s/snkGiRV_VfAYUtXyjUd1ig">时序人中文解读</a>]**
 **[<a href="https://mp.weixin.qq.com/s/DG_Rc3bExPnl8VzP1Q9RXQ">圆圆的算法笔记中文解读</a>]**
 **[<a href="https://mp.weixin.qq.com/s/r2NPl0yBHnlx-cvOFOHgPg">深度图学习与大模型LLM中文解读</a>]**
+**[<a href="https://mp.weixin.qq.com/s/ofNzFpad1naUn7_JFRwYWg">QuantML中文解读</a>]**
 
 </div>
 
