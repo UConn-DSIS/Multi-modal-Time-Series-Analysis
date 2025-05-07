@@ -1,5 +1,7 @@
 # Multi-modal-Time-Series-Analysis
 
+> 🎉 **News**: This survey has been ACCEPTED to the Lecture Style Tutorials Track of KDD 2025 as a HALF-DAY tutorial! 🎉
+
 <div align="center">
 
 **[<a href="https://mp.weixin.qq.com/s/snkGiRV_VfAYUtXyjUd1ig">时序人中文解读</a>]**
