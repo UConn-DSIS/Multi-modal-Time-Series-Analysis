@@ -58,32 +58,32 @@ This survey aims to provide a unique and systematic perspective on ***effectivel
 </tr>
 <tr>
 <td>Multi-domain</td>
-<td>MTBench<sup><a href="https://github.com/Graph-and-Geometric-Learning/MTBench">[13]</a></sup>, Time-MMD<sup><a href="https://github.com/AdityaLab/Time-MMD">[14]</a></sup>, TimeCAP<sup><a href="https://github.com/geon0325/TimeCAP">[15]</a></sup>, NewsForecast<sup><a href="https://github.com/ameliawong1996/From_News_to_Forecast">[16]</a></sup>, TTC<sup><a href="https://github.com/Rose-STL-Lab/Multimodal_Forecasting">[17]</a></sup>, CiK<sup><a href="https://servicenow.github.io/context-is-key-forecasting/v0/">[18]</a></sup>, TSQA<sup><a href="https://huggingface.co/Time-QA">[19]</a></sup></td>
+<td>MTBench<sup><a href="https://github.com/Graph-and-Geometric-Learning/MTBench">[13]</a></sup>, Time-MMD<sup><a href="https://github.com/AdityaLab/Time-MMD">[14]</a></sup>, TimeCAP<sup><a href="https://github.com/geon0325/TimeCAP">[15]</a></sup>, NewsForecast<sup><a href="https://github.com/ameliawong1996/From_News_to_Forecast">[16]</a></sup>, TTC<sup><a href="https://github.com/Rose-STL-Lab/Multimodal_Forecasting">[17]</a></sup>, CiK<sup><a href="https://servicenow.github.io/context-is-key-forecasting/v0/">[18]</a></sup>, TSQA<sup><a href="https://huggingface.co/Time-QA">[19]</a></sup>, SymbolBench<sup><a href="https://arxiv.org/abs/2508.03963">[20]</a></sup></td> 
 <td>TS, Text</td>
 </tr>
 <tr>
 <td>Retail</td>
-<td>VISUELLE<sup><a href="https://github.com/HumaticsLAB/GTM-Transformer">[20]</a></sup></td>
+<td>VISUELLE<sup><a href="https://github.com/HumaticsLAB/GTM-Transformer">[21]</a></sup></td>
 <td>TS, Image, Text</td>
 </tr>
 <tr>
 <td>IoT</td>
-<td>LEMMA-RCA<sup><a href="https://lemma-rca.github.io/">[21]</a></sup></td>
+<td>LEMMA-RCA<sup><a href="https://lemma-rca.github.io/">[22]</a></sup></td>
 <td>TS, Text</td>
 </tr>
 <tr>
 <td>Speech</td>
-<td>LRS3<sup><a href="https://www.robots.ox.ac.uk/~vgg/data/lip_reading/">[22]</a></sup>, VoxCeleb2<sup><a href="https://www.robots.ox.ac.uk/~vgg/data/voxceleb/">[23]</a></sup></td>
+<td>LRS3<sup><a href="https://www.robots.ox.ac.uk/~vgg/data/lip_reading/">[23]</a></sup>, VoxCeleb2<sup><a href="https://www.robots.ox.ac.uk/~vgg/data/voxceleb/">[24]</a></sup></td>
 <td>TS (Audio), Image</td>
 </tr>
 <tr>
 <td>Traffic</td>
-<td>NYC-taxi, NYC-bike<sup><a href="https://huggingface.co/datasets/bjdwh/ST_data_urbangpt">[24]</a></sup></td>
+<td>NYC-taxi, NYC-bike<sup><a href="https://huggingface.co/datasets/bjdwh/ST_data_urbangpt">[25]</a></sup></td>
 <td>ST, Text</td>
 </tr>
 <tr>
 <td>Environment</td>
-<td>Terra<sup><a href="https://github.com/CityMind-Lab/NeurIPS24-Terra">[25]</a></sup></td>
+<td>Terra<sup><a href="https://github.com/CityMind-Lab/NeurIPS24-Terra">[26]</a></sup></td>
 <td>ST, Text</td>
 </tr>
 </table>
