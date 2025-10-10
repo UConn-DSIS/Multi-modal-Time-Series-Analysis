@@ -1,4 +1,4 @@
-# Multi-modal-Time-Series-Analysis
+# [KDD 2025] Multi-modal-Time-Series-Analysis
 
 > 🎉 **News**: This survey has been ACCEPTED to the Lecture Style Tutorials Track of KDD 2025 as a HALF-DAY tutorial! 🎉
 
