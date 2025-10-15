@@ -221,7 +221,7 @@ We define three fundamental types of interactions between time series and other 
 <td><sub>Addition</sub></td>
 </tr>
 <tr>
-<td rowspan="2"><strong><sub>TimeXL</sub></strong> </br><a href="https://arxiv.org/abs/2503.01013"><sup><sub>(2025)</sub></sup></a></td>
+<td rowspan="2"><strong><sub>TimeXL</sub></strong> </br><a href="https://arxiv.org/abs/2503.01013"><sup><sub>(NeurIPS 2025)</sub></sup></a></td>
 <td rowspan="2"><sub>TS, Text</sub></td>
 <td rowspan="2"><sub>General</sub></td>
 <td><sub>Classification</sub></td>
